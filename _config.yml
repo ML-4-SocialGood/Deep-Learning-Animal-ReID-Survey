@@ -1,0 +1,29 @@
+title: "Deep-Learning-Animal-ReID-Survey"
+description: "Official GitHub Page for the “From Closed-Set Biometrics to Open-World Animal ReID” Survey."
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+minimal_mistakes_skin: "default"
+
+header_pages:
+  - index.md
+  - tool.md
+  - results.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      classes: wide
+      toc: false
+      author_profile: false
+      sidebar: false
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge

@@ -1,0 +1,34 @@
+body {
+  outline: 3px solid red;
+}
+
+
+/* Back to top link */
+.back-to-top {
+  text-align: right;
+  margin-top: 8px;
+  font-size: 0.85em;
+}
+
+.back-to-top a {
+  color: #888;
+  text-decoration: none;
+}
+
+.back-to-top a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
+/* Center tables when they don't fill the width */
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Optional: make tables slightly more compact and readable */
+table th,
+table td {
+  padding: 6px 10px;
+}
+

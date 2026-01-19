@@ -69,7 +69,7 @@ Beyond algorithmic advances, we adopt an **ecosystem-level perspective** that sp
 To support reproducibility and long-term community use, this repository serves as a living companion to the survey and provides:
 
 - **📚 Paper List**: A continuously updated paper list covering representative Animal ReID research;
-- **🛠️ VIGIL-ReID Toolkit**: A standardized evaluation library designed for open-world settings.  
+- **🛠️ ReWildID Toolkit**: A standardized evaluation library designed for open-world settings.  
   👉 [**Get Started with Toolkit**](./tool/)
 - **🏆 Benchmark Results**: Detailed performance analysis and zero-shot baselines extracted from the survey.  
   👉 [**View Leaderboard & Analysis**](./results/)
